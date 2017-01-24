@@ -1,0 +1,20 @@
+{
+  "name": "Queue-SinglyLinkedList",
+  "version": "1.0.0",
+  "description": "[Slack link to planning image](https://slack-files.com/T039KG69K-F3VETFVFU-fe192310c4)",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EWPS07/Queue-SinglyLinkedList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EWPS07/Queue-SinglyLinkedList/issues"
+  },
+  "homepage": "https://github.com/EWPS07/Queue-SinglyLinkedList#readme"
+}

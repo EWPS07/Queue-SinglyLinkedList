@@ -36,6 +36,7 @@ SinglyLinkedList.prototype.append = function(val) {
   if (!this.head) {
     this.head = node;
     this.tail = node;
+    return;
   }
 
   this.tail.next = node;
