@@ -1,6 +1,6 @@
 # Queue-SinglyLinkedList
 ### Planning-Image
-![Queue-WB-image](./Queue-WB-image.jpg)
+![Queue-WB-image](./queue-WB-image.jpg)
 
 # Tree-Traversal
 ### Planning-Image
